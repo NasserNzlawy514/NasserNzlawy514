@@ -24,7 +24,7 @@ Welcome to my Data Analytics portfolio! Here, I showcase my skills and projects 
 - **🛠️ Tools:** Power BI, Excel, Power Query
 - **📄 Description:** Built interactive dashboards to monitor key metrics such as revenue, customer retention, and product performance, enabling data-driven decision-making.
 
-### 5. 🚛 [Fleet Management Analysis](#)
+### 5. 🚛 [Fleet Management Analysis](https://github.com/NasserNzlawy514/Fleet-Management-Data-Analysis)
 - **🛠️ Tools:** Power BI, Excel, SQL
 - **📄 Description:** Analyzed fleet performance data to enhance operational efficiency, reduce costs, and optimize resource allocation.
 
