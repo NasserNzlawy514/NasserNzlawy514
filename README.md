@@ -20,7 +20,7 @@ Welcome to my Data Analytics portfolio! Here, I showcase my skills and projects 
 - **🛠️ Tools:** SQL, Power BI
 - **📄 Description:** Evaluated the effectiveness of marketing campaigns, including customer segmentation, ROI assessment, and campaign performance metrics.
 
-### 4. 🛒 [Ecommerce Sales Analysis]((https://github.com/NasserNzlawy514/Ecommerce-Sales-Analysis)
+### 4. 🛒 [Ecommerce Sales Analysis](https://github.com/NasserNzlawy514/Ecommerce-Sales-Analysis)
 - **🛠️ Tools:** Power BI, Excel, Power Query
 - **📄 Description:** Built interactive dashboards to monitor key metrics such as revenue, customer retention, and product performance, enabling data-driven decision-making.
 
