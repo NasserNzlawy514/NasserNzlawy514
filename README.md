@@ -16,7 +16,7 @@ Welcome to my Data Analytics portfolio! Here, I showcase my skills and projects 
 - **🛠️ Tools:** Power BI, Excel, SQL
 - **📄 Description:** Conducted an analysis of gym supplement sales, identifying customer preferences, seasonal trends, and top-performing products.
 
-### 3. 📈 [Marketing Campaign Analysis](#)
+### 3. 📈 [Marketing Campaign Analysis](https://github.com/NasserNzlawy514/Marketing-Campaign-Analysis)
 - **🛠️ Tools:** SQL, Power BI
 - **📄 Description:** Evaluated the effectiveness of marketing campaigns, including customer segmentation, ROI assessment, and campaign performance metrics.
 
