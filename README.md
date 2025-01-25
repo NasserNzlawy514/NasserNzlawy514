@@ -12,7 +12,7 @@ Welcome to my Data Analytics portfolio! Here, I showcase my skills and projects 
 - **🛠️ Tools:** Excel, Power BI, Power Query
 - **📄 Description:** Analyzed drug sales data to identify trends, optimize inventory, and improve sales forecasting.
 
-### 2. 🏋️‍♂️ [Gym Supplements Sales Analysis](#)
+### 2. 🏋️‍♂️ [Fit-Supply-Data-Analysis]([#](https://github.com/NasserNzlawy514/Fit-Supply-Data-Analysis/tree/main))
 - **🛠️ Tools:** Power BI, Excel, SQL
 - **📄 Description:** Conducted an analysis of gym supplement sales, identifying customer preferences, seasonal trends, and top-performing products.
 
