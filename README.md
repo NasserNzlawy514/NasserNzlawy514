@@ -8,6 +8,10 @@ Welcome to my Data Analytics portfolio! Here, I showcase my skills and projects 
 
 ## 📂 Featured Projects
 
+### 1. 🏋️‍♂️ [Drug Sales Data Analysis - Power BI & Excel](https://github.com/NasserNzlawy514/Drug-Sales-Analysis/blob/main/README.md#drug-sales-data-analysis---power-bi--excel)
+- **🛠️ Tools:** Power BI, Excel, SQL
+- **📄 Description:** This project analyzes drug sales data using Power BI, Excel, and Power Query to derive insights on sales trends, customer behavior, and revenue performance
+
 ### 2. 🏋️‍♂️ [Fit-Supply-Data-Analysis](https://github.com/NasserNzlawy514/Fit-Supply-Data-Analysis/tree/main)
 - **🛠️ Tools:** Power BI, Excel, SQL
 - **📄 Description:** Conducted an analysis of gym supplement sales, identifying customer preferences, seasonal trends, and top-performing products.
